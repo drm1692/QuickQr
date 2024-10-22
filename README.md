@@ -1,6 +1,6 @@
-# devops-qr-code
+# QuickQR DevOps Project
 
-This is the sample application for the DevOps Capstone Project.
+This is the sample application for the DevOps Project.
 It generates QR Codes for the provided URL, the front-end is in NextJS and the API is written in Python using FastAPI.
 
 ## Application
@@ -39,12 +39,6 @@ The front-end code exits in the `front-end-nextjs` directory. You can run the fr
 
 The goal is to get hands-on with DevOps practices like Containerization, CICD and monitoring.
 
-Look at the capstone project for more detials.
-
 ## Author
 
-[Rishab Kumar](https://github.com/rishabkumar7)
-
-## License
-
-[MIT](./LICENSE)
+[Divy Majithiya](https://github.com/drm1692)
